@@ -1,0 +1,1 @@
+﻿Measure-Command { 1..5 | ForEach-Object { Start-Job { "hi" }}

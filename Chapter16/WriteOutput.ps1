@@ -1,0 +1,1 @@
+﻿Write-host "hello" | Where-Object { $_.length -gt 10} 
